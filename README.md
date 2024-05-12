@@ -33,3 +33,26 @@ https://www.printables.com/model/847408-ender-3-mgn12c-biqu-h2-h2-v2s-mount
 
 Nozzle Brush:
 https://www.printables.com/model/775218-ender-3-v2-nozzle-brush-mount
+
+# Things Bought
+
+BIQU H2 V2S Lite:
+https://biqu.equipment/products/h2-v2s-lite
+
+Microprobe 2.0:
+https://biqu.equipment/collections/expansion-board/products/microprobe-v1-0-for-b1-printers-h2-extruders-ender-3
+
+Ender 3 Dual Z Axis (Official)
+
+Ender 3 V2 (From Creality)
+
+Ender 3 Linear Rail Kit (Official)
+
+Textured PEI Bed
+
+Raspberry Pi 4B (4G)
+
+WINSINN 5015 Blower Fans:
+https://www.amazon.com/dp/B079BPS9Q8
+
+
