@@ -1,6 +1,14 @@
-# CitrusM2.1
-My upgraded Ender 3 v2 as CitrusM2.1 (V2.1)
+# CitrusM3
+My upgraded Ender 3 v2 as CitrusM3 (V3)
 
+
+#UPDATE#
+Thursday, June 6th
+CitrusM2.3 has been Migrated to the CitrusM3
+
+-Added Touchscreen for klipperscreen
+-Added New Electronics box made by me
+-Fixes klipper configurations
 
 
 # Parts Not Created by Me
@@ -34,6 +42,9 @@ https://www.printables.com/model/847408-ender-3-mgn12c-biqu-h2-h2-v2s-mount
 Nozzle Brush:
 https://www.printables.com/model/775218-ender-3-v2-nozzle-brush-mount
 
+Electronics Box:
+https://www.printables.com/model/880042-another-ender-3-electronics-box
+
 # Things Bought
 
 BIQU H2 V2S Lite:
@@ -50,9 +61,16 @@ Ender 3 Linear Rail Kit (Official)
 
 Textured PEI Bed
 
-Raspberry Pi 4B (4G)
+Raspberry Pi 4B (8G)
 
 WINSINN 5015 Blower Fans:
 https://www.amazon.com/dp/B079BPS9Q8
+
+Official 7" Raspberry Pi touchscreen
+
+Smart Pi Official Raspberry pi touchscreen mount
+
+Cables
+
 
 
